@@ -3,7 +3,7 @@ GIF SECTION
 
 If you wanna know how i made this gif
 
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
+I made this with my repo: (https://github.com/MarkWSTWRTNR/GitHub_ProfileReadmeGIF)
 There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
@@ -69,19 +69,19 @@ ur welcome ;)
           🌱 I’m currently learning Django & NestJS; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/MarkWSTWRTNR?tab=repositories)
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/MarkWSTWRTNR/)
         </li>
         <li>
           🎷 When I am free, I like to play the Sax
         </li>
         <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+          📝 Checkout my [Page](https://www.MarkWSTWRTNR.com/) 
         </li>
     </td>
     <td style="border: none;">
@@ -134,13 +134,13 @@ ur welcome ;)
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p align="center">
+<p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsDvm&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MarkWSTWRTNR's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MarkWSTWRTNR&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MarkWSTWRTNR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkWSTWRTNR&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p> -->
+</p>
 
 <!-- Projects section -->
 
@@ -149,13 +149,13 @@ ur welcome ;)
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/MarkWSTWRTNR/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkWSTWRTNR&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/MarkWSTWRTNR/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkWSTWRTNR&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/MarkWSTWRTNR/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkWSTWRTNR&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/MarkWSTWRTNR/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=MarkWSTWRTNR&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
 
@@ -163,7 +163,7 @@ ur welcome ;)
 <p align="center">&#8192;</p>
 
 <p align="left">
-  <a href="https://github.com/DavidsDvm?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/MarkWSTWRTNR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p> -->
 
 <!-- last activity section -->
@@ -180,6 +180,6 @@ ur welcome ;)
 Last refresh: <b>Saturday, April 1, 7:51 PM GMT-5</b> --> -->
 
 <!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MarkWSTWRTNR/MarkWSTWRTNR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> -->
