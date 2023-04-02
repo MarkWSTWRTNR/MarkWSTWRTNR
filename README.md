@@ -30,9 +30,13 @@ ur welcome ;)
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-HI!!! <br />
-I'm <b>Wongsathorn Woratanarat</b> Please call me Mark🕵🏼‍♂️ <br />
-I am from <strong>Thailand</strong><br />
+Hi, there! I'm Mark, a software engineering student at CAMT, Chiang Mai University. I'm passionate about both frontend and backend development, and I love building luxury and efficient web/apps that solve real-world problems.
+
+I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, and Node.js. I'm always eager to learn new skills and stay up-to-date with the latest trends in the industry.
+
+When I'm not programming, you can usually find me playing basketball or guitar. I'm also a big fan of IU.
+
+One of my goals is to become a full-stack developer, and I'm excited to continue learning and growing in the field.
 
 <br/><br/> 
 
