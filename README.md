@@ -29,7 +29,7 @@ ur welcome ;)
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
-
+<div style="text-align: justify">
 Hi, there! I'm Mark, a software engineering student at CAMT, Chiang Mai University. I'm passionate about both frontend and backend development, and I love building luxury and efficient web/apps that solve real-world problems.
 
 I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, and Node.js. I'm always eager to learn new skills and stay up-to-date with the latest trends in the industry.
@@ -37,7 +37,7 @@ I have experience working with a variety of technologies, including HTML, CSS, J
 When I'm not programming, you can usually find me playing basketball or guitar. I'm also a big fan of IU.
 
 One of my goals is to become a full-stack developer, and I'm excited to continue learning and growing in the field.
-
+</div>
 <br/><br/> 
 
 <!-- Bogota's weather table -->
