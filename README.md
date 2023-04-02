@@ -12,17 +12,17 @@ ur welcome ;)
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
-  <!-- <p align="center">
-    <a href="https://stackoverflow.com/users/story/16787643">
-      <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
+  <p align="center">
+    <a href="https://www.instagram.com/mark_wst/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/DavidsDvm">
+    <a href="https://www.linkedin.com/in/wongsathorn-woratanarat-657852267/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-    <a href="mailto:davids.dvm@gmail.com">
+    <a href="mailto:mark3wst@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
-  </p> -->
+  </p>
 </h1>
 
 <hr>
