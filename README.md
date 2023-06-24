@@ -29,9 +29,9 @@ ur welcome ;)
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 🙄 </h2>
-<p style="text-align: justify">
+<!--<p style="text-align: justify">
   👋Hi, there!👋<br/> I'm <b>Mark</b>, a <strong>Software Engineering💻</strong> student at <b>CAMT</b>🏫, <b>Chiang Mai University🧑‍🎓</b>. I'm passionate about both <b>frontend and backend development</b>🧑‍💻, and I love building luxury and efficient web/apps🍎 that solve real-world problems🧣. I have experience working with a variety of programming languages📚, I'm always eager to learn new skills and stay up-to-date with the latest trends in the industry.<br/><br/> When I'm not programming, you can usually find me playing basketball🏀 or guitar🎸. I'm also fall in love with <b>😘IU💖</b>.<br/><br/> One of my goals🥅 is to become a <b>full-stack developer</b>, and I'm excited to continue learning and growing in the field.🧭
-</p>
+</p> -->
 <br/><br/> 
 
 <!-- Bogota's weather table -->
